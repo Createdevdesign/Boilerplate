@@ -1,0 +1,9 @@
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\bin\Debug\netcoreapp2.2\EasyLoggerService.deps.json
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\bin\Debug\netcoreapp2.2\EasyLoggerService.dll
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\bin\Debug\netcoreapp2.2\EasyLoggerService.pdb
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasyLoggerService.csprojAssemblyReference.cache
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasyLoggerService.AssemblyInfoInputs.cache
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasyLoggerService.AssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasyLoggerService.csproj.CoreCompileInputs.cache
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasyLoggerService.dll
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasyLoggerService.pdb

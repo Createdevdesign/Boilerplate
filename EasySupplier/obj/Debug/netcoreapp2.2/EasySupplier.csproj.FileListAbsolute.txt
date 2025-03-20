@@ -1,0 +1,31 @@
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\EasySupplier.deps.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\EasySupplier.runtimeconfig.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\EasySupplier.runtimeconfig.dev.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\EasySupplier.dll
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\EasySupplier.pdb
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.csprojAssemblyReference.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.csproj.CoreCompileInputs.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.RazorAssemblyInfo.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.RazorAssemblyInfo.cs
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.AssemblyInfoInputs.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.AssemblyInfo.cs
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.RazorTargetAssemblyInfo.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.dll
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Vinod Working Project\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Vinod Working Project\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\EasySupplier.deps.json
+D:\Vinod Working Project\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\EasySupplier.runtimeconfig.json
+D:\Vinod Working Project\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\EasySupplier.runtimeconfig.dev.json
+D:\Vinod Working Project\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\EasySupplier.dll
+D:\Vinod Working Project\EasySupplier\EasySupplier\bin\Debug\netcoreapp2.2\EasySupplier.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.csprojAssemblyReference.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.AssemblyInfoInputs.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.AssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.csproj.CoreCompileInputs.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.RazorAssemblyInfo.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.RazorAssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.RazorTargetAssemblyInfo.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.dll
+D:\Vinod Working Project\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier\obj\Debug\netcoreapp2.2\EasySupplier.genruntimeconfig.cache

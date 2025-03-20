@@ -1,0 +1,31 @@
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\EasySupplier.HelperMethod.deps.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\EasySupplier.HelperMethod.runtimeconfig.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\EasySupplier.HelperMethod.runtimeconfig.dev.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\EasySupplier.HelperMethod.dll
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\EasySupplier.HelperMethod.pdb
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.csprojAssemblyReference.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.csproj.CoreCompileInputs.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.RazorAssemblyInfo.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.RazorAssemblyInfo.cs
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.AssemblyInfoInputs.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.AssemblyInfo.cs
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.RazorTargetAssemblyInfo.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.dll
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\EasySupplier.HelperMethod.deps.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\EasySupplier.HelperMethod.runtimeconfig.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\EasySupplier.HelperMethod.runtimeconfig.dev.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\EasySupplier.HelperMethod.dll
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\bin\Debug\netcoreapp2.2\EasySupplier.HelperMethod.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.csprojAssemblyReference.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.AssemblyInfoInputs.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.AssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.csproj.CoreCompileInputs.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.RazorAssemblyInfo.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.RazorAssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.RazorTargetAssemblyInfo.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.dll
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.HelperMethod\obj\Debug\netcoreapp2.2\EasySupplier.HelperMethod.genruntimeconfig.cache

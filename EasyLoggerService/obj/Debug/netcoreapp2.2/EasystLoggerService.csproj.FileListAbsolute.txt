@@ -1,0 +1,27 @@
+G:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\bin\Debug\netcoreapp2.2\EasystLoggerService.deps.json
+G:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\bin\Debug\netcoreapp2.2\EasystLoggerService.dll
+G:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\bin\Debug\netcoreapp2.2\EasystLoggerService.pdb
+G:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.csprojAssemblyReference.cache
+G:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.csproj.CoreCompileInputs.cache
+G:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.AssemblyInfoInputs.cache
+G:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.AssemblyInfo.cs
+G:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.dll
+G:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.pdb
+D:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\bin\Debug\netcoreapp2.2\EasystLoggerService.deps.json
+D:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\bin\Debug\netcoreapp2.2\EasystLoggerService.dll
+D:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\bin\Debug\netcoreapp2.2\EasystLoggerService.pdb
+D:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.csprojAssemblyReference.cache
+D:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.csproj.CoreCompileInputs.cache
+D:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.AssemblyInfoInputs.cache
+D:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.AssemblyInfo.cs
+D:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.dll
+D:\Easy Sourcing\EasySourcingAPI2.0\EasystLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.pdb
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\bin\Debug\netcoreapp2.2\EasystLoggerService.deps.json
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\bin\Debug\netcoreapp2.2\EasystLoggerService.dll
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\bin\Debug\netcoreapp2.2\EasystLoggerService.pdb
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.csprojAssemblyReference.cache
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.AssemblyInfoInputs.cache
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.AssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.csproj.CoreCompileInputs.cache
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.dll
+D:\Vinod Working Project\EasySupplier\EasyLoggerService\obj\Debug\netcoreapp2.2\EasystLoggerService.pdb

@@ -1,0 +1,30 @@
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\EasySupplier.CrossCutting.deps.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\EasySupplier.CrossCutting.runtimeconfig.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\EasySupplier.CrossCutting.runtimeconfig.dev.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\EasySupplier.CrossCutting.dll
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\EasySupplier.CrossCutting.pdb
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.csprojAssemblyReference.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.RazorAssemblyInfo.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.RazorAssemblyInfo.cs
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.AssemblyInfoInputs.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.AssemblyInfo.cs
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.RazorTargetAssemblyInfo.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.dll
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\EasySupplier.CrossCutting.deps.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\EasySupplier.CrossCutting.runtimeconfig.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\EasySupplier.CrossCutting.runtimeconfig.dev.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\EasySupplier.CrossCutting.dll
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Debug\netcoreapp2.2\EasySupplier.CrossCutting.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.AssemblyInfoInputs.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.AssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.RazorAssemblyInfo.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.RazorAssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.RazorTargetAssemblyInfo.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.dll
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Debug\netcoreapp2.2\EasySupplier.CrossCutting.genruntimeconfig.cache

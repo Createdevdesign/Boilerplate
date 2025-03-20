@@ -1,0 +1,29 @@
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.deps.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.runtimeconfig.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.runtimeconfig.dev.json
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.dll
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.pdb
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.csproj.CoreCompileInputs.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.RazorAssemblyInfo.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.RazorAssemblyInfo.cs
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.AssemblyInfoInputs.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.AssemblyInfo.cs
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.RazorTargetAssemblyInfo.cache
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.dll
+D:\Beedu Aqumain\easysystem\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.deps.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.runtimeconfig.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.runtimeconfig.dev.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.dll
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\bin\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.AssemblyInfoInputs.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.AssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.csproj.CoreCompileInputs.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.RazorAssemblyInfo.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.RazorAssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.RazorTargetAssemblyInfo.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.dll
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.DataTransferObject\obj\Debug\netcoreapp2.2\EasySupplier.DataTransferObject.genruntimeconfig.cache

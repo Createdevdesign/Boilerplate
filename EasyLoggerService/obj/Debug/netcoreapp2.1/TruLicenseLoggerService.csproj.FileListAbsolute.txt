@@ -1,0 +1,9 @@
+G:\beedu\TruLicense\TruLicenseLoggerService\bin\Debug\netcoreapp2.1\TruLicenseLoggerService.deps.json
+G:\beedu\TruLicense\TruLicenseLoggerService\bin\Debug\netcoreapp2.1\TruLicenseLoggerService.dll
+G:\beedu\TruLicense\TruLicenseLoggerService\bin\Debug\netcoreapp2.1\TruLicenseLoggerService.pdb
+G:\beedu\TruLicense\TruLicenseLoggerService\obj\Debug\netcoreapp2.1\TruLicenseLoggerService.csprojAssemblyReference.cache
+G:\beedu\TruLicense\TruLicenseLoggerService\obj\Debug\netcoreapp2.1\TruLicenseLoggerService.csproj.CoreCompileInputs.cache
+G:\beedu\TruLicense\TruLicenseLoggerService\obj\Debug\netcoreapp2.1\TruLicenseLoggerService.AssemblyInfoInputs.cache
+G:\beedu\TruLicense\TruLicenseLoggerService\obj\Debug\netcoreapp2.1\TruLicenseLoggerService.AssemblyInfo.cs
+G:\beedu\TruLicense\TruLicenseLoggerService\obj\Debug\netcoreapp2.1\TruLicenseLoggerService.dll
+G:\beedu\TruLicense\TruLicenseLoggerService\obj\Debug\netcoreapp2.1\TruLicenseLoggerService.pdb

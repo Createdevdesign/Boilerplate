@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXPn92Nl1J4=",
+  "success": false,
+  "projectFilePath": "D:\\EasySupplier\\EasySupplier\\EasySupplier.Business\\EasySupplier.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\EasySupplier\\EasySupplier\\BoilerSupplier.Repository\\BoilerSupplier.Repository.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\EasySupplier\\EasySupplier\\BoilerSupplier.Repository\\BoilerSupplier.Repository.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\EasySupplier\\EasySupplier\\BoilerSupplier.DataTransferObject\\BoilerSupplier.DataTransferObject.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\EasySupplier\\EasySupplier\\BoilerSupplier.DataTransferObject\\BoilerSupplier.DataTransferObject.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

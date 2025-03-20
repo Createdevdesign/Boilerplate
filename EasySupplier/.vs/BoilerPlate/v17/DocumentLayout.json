@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EasySupplier\\EasySupplier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10EB2FE0-9086-4F82-A8BF-17A41AD72865}|EasySupplier.CrossCutting\\EasySupplier.CrossCutting.csproj|d:\\easysupplier\\easysupplier\\easysupplier.crosscutting\\easysupplier.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10EB2FE0-9086-4F82-A8BF-17A41AD72865}|EasySupplier.CrossCutting\\EasySupplier.CrossCutting.csproj|solutionrelative:easysupplier.crosscutting\\easysupplier.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960DFECC-4E64-4A0D-946C-48358A18A310}|EasySupplier.Webapi\\EasySupplier.Webapi.csproj|d:\\easysupplier\\easysupplier\\easysupplier.webapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960DFECC-4E64-4A0D-946C-48358A18A310}|EasySupplier.Webapi\\EasySupplier.Webapi.csproj|solutionrelative:easysupplier.webapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BFA40F-E35D-456F-98D0-CC3C711FFC13}|EasySupplier.DataTransferObject\\EasySupplier.DataTransferObject.csproj|d:\\easysupplier\\easysupplier\\easysupplier.datatransferobject\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BFA40F-E35D-456F-98D0-CC3C711FFC13}|EasySupplier.DataTransferObject\\EasySupplier.DataTransferObject.csproj|solutionrelative:easysupplier.datatransferobject\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EasySupplier.CrossCutting",
+              "DocumentMoniker": "D:\\EasySupplier\\EasySupplier\\EasySupplier.CrossCutting\\EasySupplier.CrossCutting.csproj",
+              "RelativeDocumentMoniker": "EasySupplier.CrossCutting\\EasySupplier.CrossCutting.csproj",
+              "ToolTip": "D:\\EasySupplier\\EasySupplier\\EasySupplier.CrossCutting\\EasySupplier.CrossCutting.csproj",
+              "RelativeToolTip": "EasySupplier.CrossCutting\\EasySupplier.CrossCutting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T06:37:58.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "D:\\EasySupplier\\EasySupplier\\EasySupplier.Webapi\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "EasySupplier.Webapi\\Controllers\\AddressController.cs",
+              "ToolTip": "D:\\EasySupplier\\EasySupplier\\EasySupplier.Webapi\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "EasySupplier.Webapi\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:36:22.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\EasySupplier\\EasySupplier\\EasySupplier.DataTransferObject\\Address.cs",
+              "RelativeDocumentMoniker": "EasySupplier.DataTransferObject\\Address.cs",
+              "ToolTip": "D:\\EasySupplier\\EasySupplier\\EasySupplier.DataTransferObject\\Address.cs",
+              "RelativeToolTip": "EasySupplier.DataTransferObject\\Address.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:36:21.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

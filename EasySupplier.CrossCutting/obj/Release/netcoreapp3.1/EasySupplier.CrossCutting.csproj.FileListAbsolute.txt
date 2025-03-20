@@ -1,0 +1,17 @@
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Release\netcoreapp3.1\appsettings.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Release\netcoreapp3.1\EasySupplier.CrossCutting.exe
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Release\netcoreapp3.1\EasySupplier.CrossCutting.deps.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Release\netcoreapp3.1\EasySupplier.CrossCutting.runtimeconfig.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Release\netcoreapp3.1\EasySupplier.CrossCutting.runtimeconfig.dev.json
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Release\netcoreapp3.1\EasySupplier.CrossCutting.dll
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\bin\Release\netcoreapp3.1\EasySupplier.CrossCutting.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Release\netcoreapp3.1\EasySupplier.CrossCutting.csprojAssemblyReference.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Release\netcoreapp3.1\EasySupplier.CrossCutting.AssemblyInfoInputs.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Release\netcoreapp3.1\EasySupplier.CrossCutting.AssemblyInfo.cs
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Release\netcoreapp3.1\EasySupplier.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Release\netcoreapp3.1\EasySupplier.CrossCutting.MvcApplicationPartsAssemblyInfo.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Release\netcoreapp3.1\EasySupplier.CrossCutting.RazorTargetAssemblyInfo.cache
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Release\netcoreapp3.1\EasySupplier.CrossCutting.dll
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Release\netcoreapp3.1\EasySupplier.CrossCutting.pdb
+D:\Vinod Working Project\EasySupplier\EasySupplier.CrossCutting\obj\Release\netcoreapp3.1\EasySupplier.CrossCutting.genruntimeconfig.cache
